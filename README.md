@@ -7,7 +7,7 @@
 
 | Field | Details |
 |---|---|
-| **Name** | [Your Name] |
+| **Name** | Butcha Laxmana Rao |
 | **Program** | Pluto Academy — Data Analytics Internship |
 | **Project** | Project 01 — E-Commerce Sales Analysis |
 | **Dataset** | Olist Brazilian E-Commerce (Kaggle) |
@@ -157,6 +157,8 @@ project01_outputs/
 ├── chart6_category_month_heatmap.png
 └── dashboard_kpi.png
 ```
+<img width="1417" height="748" alt="image" src="https://github.com/user-attachments/assets/f8cddc28-0caa-4f51-8279-e2e583357d61" />
+
 
 ---
 

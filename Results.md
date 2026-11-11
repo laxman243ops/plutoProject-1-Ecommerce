@@ -53,6 +53,8 @@ Review score	Count	Share
 5. Dashboard
  
 Figure 1: Dashboard with revenue by category, monthly trend, regional sales, order value distribution, review scores and category vs month heatmap.
+<img width="1000" height="523" alt="image" src="https://github.com/user-attachments/assets/4dd5023f-b79d-497a-8bd7-0f28e38395cd" />
+
 6. Recommendations
 •	Prioritize inventory and marketing for the top categories, especially health & beauty and watches & gifts.
 •	Run targeted campaigns in states outside SP to reduce dependence on a single region.
